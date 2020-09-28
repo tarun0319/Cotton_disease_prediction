@@ -42,10 +42,11 @@ training the 1951 imges using following Transfer techniques and predicte cotton 
 ├── requirement.txt
 ```	
 
-## Dataset link :https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
+## Dataset link :
+https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
 ![](https://i.imgur.com/M9eFNZQ.png)
 
-## Keras applicaton link
+## Keras applicaton link ![] (https://keras.io/img/logo-small.png)
 link:https://keras.io/api/applications/
 ![](https://i.imgur.com/lYl1yWA.png)
 
