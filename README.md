@@ -14,9 +14,9 @@ https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
 
 ## Demo	
 
-![](https://i.imgur.com/TlWWrO2.png)
-![](https://i.imgur.com/wDmYLkV.png)
-![](https://i.imgur.com/o9NtUwh.png)
+![](https://i.imgur.com/TlWWrO2.png?2)
+![](https://i.imgur.com/wDmYLkV.png?2)
+![](https://i.imgur.com/o9NtUwh.png?3)
 
 ## Overview	
 This is a Flask web app which predicts fare of Flight ticket.	
