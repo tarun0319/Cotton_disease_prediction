@@ -9,37 +9,43 @@ https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
 ## Table of Content	
   * [Demo](#demo)	
   * [Overview](#overview)	
-  * [Deployement on Heroku](#deployement-on-heroku)	
   * [Directory Tree](#directory-tree)	
 
 ## Demo	
 
 ![](https://i.imgur.com/sozg3fL.png?1)
+
 ![](https://i.imgur.com/5It6iwC.png?1)
+
 ![](https://i.imgur.com/Ti3gFMa.png?1)
 
 ## Overview	
-This is a Flask web app which predicts fare of Flight ticket.	
+Cotton disease prediction using Deep Learning(Transfer learning techniques).
+training the 1951 imges using following Transfer techniques and predicte cotton plant disease or not.
+1)InceptionV3 - 97%  accurency 
+2)ResNet50    - 77%  accurency
+3)ResNet152V2 - 96%  accurency
 
-## Deployement on Heroku	
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.	
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)	
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.	
 
 ## Directory Tree 	
 ```	
 ├── static 	
-│   ├── css	
+│   ├── css
+│        ├── main.css
+│   ├── js
+│        ├── main.js
 ├── template	
-│   ├── home.html	
-├── Procfile		
+│   ├── base.html	
+│   ├── index.html
+├── Transfer Learning ResNet50.ipynb	
+├── Transfer Learning resnet152V2.ipynb	
+├── Transfer_Learning_Inception_V3.ipynb		
 ├── app.py	
-├── flight_price.ipynb	
-├── flight_rf.pkl	
-├── requirements.txt	
+├── requirement.txt
 ```	
+
+## Keras applicaton link
+link:https://keras.io/api/applications/
 
 ## Technologies Used	
 
