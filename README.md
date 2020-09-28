@@ -1,8 +1,6 @@
-# Cotton_disease_prediction
-https://keras.io/api/applications/
+# Cotton Disease Prediction
 
-## Dataset link :
-https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
+
 
 ## 288+815+427+421=1951 for training
 
@@ -47,11 +45,10 @@ training the 1951 imges using following Transfer techniques and predicte cotton 
 ## Keras applicaton link
 link:https://keras.io/api/applications/
 
-## Technologies Used	
+## Dataset link :
+https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
+![](https://i.imgur.com/M9eFNZQ.png)
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)	
-
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 	
 
 
 
